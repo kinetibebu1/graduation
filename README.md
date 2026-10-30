@@ -87,13 +87,7 @@ This Minimum Viable Product (MVP) validates the core habit loop:
 
 > *Add application screenshots below to showcase the visual interface.*
 
-```markdown
-<!-- Replace the placeholders below with actual screenshot assets when ready -->
-![StudyHabit Dashboard Overview](docs/images/dashboard-overview.png)
-*Figure 1: StudyHabit Dashboard showing Daily KPIs, Weekly Consistency View, and Daily Checklist.*
 
-![Habit Management & Edit Modal](docs/images/habit-modal.png)
-*Figure 2: Unified Habit Form Modal supporting creation, editing, duration presets, and subject tags.*
 ```
 
 ---
