@@ -10,6 +10,7 @@
   - [The Problem](#the-problem)
   - [The Solution](#the-solution)
   - [MVP Scope & Purpose](#mvp-scope--purpose)
+- [Project Demo](project demo)
 - [Key Features](#key-features)
 - [Screenshots](#screenshots)
 - [Technology Stack](#technology-stack)
@@ -42,6 +43,17 @@ This Minimum Viable Product (MVP) validates the core habit loop:
 
 ---
 
+
+
+## Project Demo
+Watch the studyHabit app demonstration to see the current experience
+
+▶️ assets/studyHabit-demo.mkv
+
+The demonstration shows the current MVP.
+
+---
+
 ## Key Features
 
 ### 1. Habit Creation & Customization
@@ -58,6 +70,7 @@ This Minimum Viable Product (MVP) validates the core habit loop:
 - **Checklist**: Single-click checkbox toggle to log completion for the day.
 - **Dynamic Feedback**: Real-time toast alerts acknowledging finished study blocks.
 - **Dynamic Subtitle**: Context-aware greetings that summarize remaining sessions or celebrate complete daily checklists.
+
 
 ### 4. Habit Archiving & Restoration
 - **Archive Action**: Temporarily retire routines so they no longer clutter active daily views or affect current daily statistics.
@@ -277,7 +290,3 @@ Potential enhancements identified for post-MVP iterations:
 - **Dark Mode Theme**: Theme toggle for late-night study sessions.
 
 ---
-
-## License
-
-This repository currently has **no declared license**. All rights are reserved by the original author. If you wish to use, modify, or distribute this project, please obtain permission from the repository owner.
